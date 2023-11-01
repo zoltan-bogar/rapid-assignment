@@ -1,4 +1,12 @@
-# Description
+# Rapid Search Assignment
+
+## How To
+I used _ts-node_ to execute the application.  
+The app's entry point is the `src/index.ts` file.  
+#### Example usage:
+`ts-node src/index.ts topdir`
+
+## Description
 Write a class (called “FS”) in TypeScript, that takes a directory as an argument which will act as an interface to a file system.
 
 We need two methods in this class:
